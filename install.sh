@@ -1,5 +1,5 @@
 chmod +x downloder.sh
-mv downloder.sh downloder
-mv downloder /bin
+mv download.sh downloader 
+mv downloader /bin
 echo "####################################"
-echo "TyPe  "downloder" FoR sEe CoMmAnDs."
+echo "TyPe  "downloader" FoR sEe CoMmAnDs."
